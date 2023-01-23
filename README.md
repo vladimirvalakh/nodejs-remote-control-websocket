@@ -3,6 +3,9 @@
 ## Installation
 `npm i`
 
+## Copy .env.template to .env
+`cp .env.template .env`
+
 ## Run
 **Dev Env**
 `npm run start:dev`
